@@ -1,1 +1,1 @@
-# weather-alerts
+# Weather alerts
